@@ -1,2 +1,2 @@
 # criando novo
- aula repositório
+ Aula de repositório no curso em vídeo!
